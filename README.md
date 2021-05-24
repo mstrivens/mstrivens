@@ -1,4 +1,4 @@
-## Are you looking at me? 👽👽
+## Hello world, I'm Max 👽👽
 <!--
 **mstrivens/mstrivens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
