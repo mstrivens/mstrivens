@@ -29,7 +29,7 @@
     
 <div align="left">
 
-< h3 align='center'>A Snapshot</h3>
+<h3 align='center'>A Snapshot</h3>
 
 <p  align='center'>
 - 🔭 I’m currently working on a continuation of learning after completing the Makers 12 week 'Become a software developer' bootcamp, learning how to Test Drive software development through a OOD and OOP approach. I'm working on furthering my skills whilst proactively job hunting
