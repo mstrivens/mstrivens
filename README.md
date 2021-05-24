@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 
 - 😄 Pronouns: He/Him
 - 
-- ⚡ Fun fact: I meditate to help me stay focussed and energized on projects (I once went 10 days without saying a word at one retreat :meditation:)
+- ⚡ Fun fact: I meditate to help me stay focussed and energized on projects (I once went 10 days without saying a word at one retreat :open_mouthed:)
