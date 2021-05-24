@@ -21,7 +21,7 @@
 - 😄 Pronouns: He/Him
 
 
-- ⚡ Fun fact: I meditate to help me stay focussed and energized on projects (I once went 10 days without saying a word at one retreat 😮)
+- ⚡ Fun fact: I meditate to help me stay focussed and energized on projects (I once went 10 days without saying a word on one particular meditation course 😮)
 
 [![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=mstrivens&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
