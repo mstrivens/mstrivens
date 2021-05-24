@@ -54,14 +54,6 @@
 - ⚡ Fun fact: I meditate to help me stay focussed and energized on projects (I once went 10 days without saying a word on one particular meditation course 😮)
 </p>
 
- <p  align='center'>
-[![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=mstrivens&show_icons=true)](https://github.com/mstrivens/github-readme-stats)
-</p>
-
- <p  align='center'>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mstrivens&layout=compact&theme=vue&card_width=300&hide_title=true)](https://github.com/mstrivens/github-readme-stats)
-</p>
-
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mstrivens&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
