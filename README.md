@@ -23,7 +23,7 @@
   </div>
 
   <details>
-    <summary>
+    <summary align='center'>
     <i>(click me!)</i>
     </summary>
     
