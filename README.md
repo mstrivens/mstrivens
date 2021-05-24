@@ -20,6 +20,13 @@
 - 🔧 &nbsp; Atom | Visual Studio code | Git
 </p> 
 
+  <details>
+    <summary>
+    <i>(click me!)</i>
+    </summary>
+    
+<div align="left">
+
 < h3 align='center'>A Snapshot</h3>
 
 <p  align='center'>
@@ -61,3 +68,5 @@
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mstrivens&layout=compact&theme=vue&card_width=300&hide_title=true" width="350"></a>
 </p>
+  
+</div>
