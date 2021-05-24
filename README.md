@@ -1,5 +1,5 @@
 ## Hello world, I'm Max 👽👽
-### ~Steve~Jobs Hunter
+
 <!--
 **mstrivens/mstrivens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
