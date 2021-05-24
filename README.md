@@ -1,3 +1,4 @@
+<div align='center'>
 <h1 align='center'>
   Hi, I'm Max 👋 
 </h1>
@@ -19,6 +20,7 @@
 <p  align='center'>
 - 🔧 &nbsp; Atom | Visual Studio code | Git
 </p> 
+  </div>
 
   <details>
     <summary>
