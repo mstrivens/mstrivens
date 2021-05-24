@@ -21,10 +21,16 @@
 <p  align='center'>
 - 🔧 &nbsp; Atom | Visual Studio code | Git
 </p> 
+</div>     
 
-<h3>Not My Cat Final Project</h3>            
+<H1 align='center'>Not My Cat Makers Final Project</H1>
+<p align='center'>
+<a href="https://github.com/loushark/not_my_cat_frontend" target="_blank"><img src="https://user-images.githubusercontent.com/74908625/119391971-fd0d8400-bcc6-11eb-961a-b5b0f7d3c9ed.gif" 
+alt="Not My Cat Repo" width="300" height="600"/></br>Not My Cat Repo</a>
+</p>
+</p>
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/74908625/119391971-fd0d8400-bcc6-11eb-961a-b5b0f7d3c9ed.gif)
-</div>  
+
 
   <details>
     <summary align='center'>
