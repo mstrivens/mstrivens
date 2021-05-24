@@ -1,5 +1,3 @@
-[![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=mstrivens&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
   [![Gmail](https://img.shields.io/badge/GMAIL-282c34?style=flat-square&labelColor=282c34&logo=Gmail&logoColor=white&color=282c34)](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=thecondimentunit@gmail.com)
   [![linkedin](https://img.shields.io/badge/LINKEDIN-282c34?style=flat-square&labelColor=282c34&logo=LinkedIn&logoColor=white&color=282c34)](https://www.linkedin.com/in/maxstrivens//)
   [![Dev.to](https://img.shields.io/badge/DEV.TO-282c34?style=flat-square&labelColor=282c34&logo=DEV.TO&logoColor=white&color=282c34)](https://dev.to/mstrivens)
@@ -24,3 +22,7 @@
 
 
 - ⚡ Fun fact: I meditate to help me stay focussed and energized on projects (I once went 10 days without saying a word at one retreat 😮)
+
+[![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=mstrivens&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jl88s&layout=compact&theme=vue&card_width=300&hide_title=true)](https://github.com/jl88s/github-readme-stats)
