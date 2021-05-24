@@ -29,7 +29,6 @@
 alt="Not My Cat Repo"/></br>Not My Cat Repo</a>
 </p>
 </p>
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/74908625/119391971-fd0d8400-bcc6-11eb-961a-b5b0f7d3c9ed.gif)
 
 
   <details>
