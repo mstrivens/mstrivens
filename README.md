@@ -21,10 +21,12 @@
 <p  align='center'>
 - 🔧 &nbsp; Atom | Visual Studio code | Git
 </p> 
-  </div>
+</div>
   
+<div align='center>  
+<h3>Not My Cat Final Project</h3>            
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/74908625/119391971-fd0d8400-bcc6-11eb-961a-b5b0f7d3c9ed.gif)
-  
+</div>  
 
   <details>
     <summary align='center'>
