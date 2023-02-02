@@ -10,10 +10,10 @@
   
 <h3 align='center'>🛠 Tech Stack</h3>
 <p  align='center'>
-- 💻 &nbsp; Ruby | Javascript
+- 💻 &nbsp; Python | Javascript | Typescript | Ruby 
 </p> 
 <p  align='center'>
-- 🌐 &nbsp; Rails | React | HTML | CSS | JavaScript | Bootstrap 
+- 🌐 &nbsp; Vue | React | HTML | CSS | Bootstrap | Rails
 </p>
 <p  align='center'>
 - 🛢 &nbsp; PostgreSQL | MongoDB
