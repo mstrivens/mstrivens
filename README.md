@@ -1,6 +1,9 @@
 <div align='center'>
 <h1 align='center'>
   Max Strivens
+    <h3 align='center'>
+  Technical Lead
+</h3>
   </h1>
   <h3 align='center'>
   Technical Lead
