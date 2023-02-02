@@ -1,11 +1,10 @@
 <div align='center'>
 <h1 align='center'>
   Max Strivens
-  <h2>Technical Lead</h2>
   </h1>
-  <h3 align='center'>
+  <h2 align='center'>
   Technical Lead
-</h3>
+</h2>
 
 <p  align='center'>
   <a href="https://www.linkedin.com/in/maxstrivens/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
