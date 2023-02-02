@@ -1,6 +1,7 @@
 <div align='center'>
 <h1 align='center'>
-  Hi, I'm Max 👋 
+  Max Strivens
+  Technical Lead
 </h1>
 
 <p  align='center'>
